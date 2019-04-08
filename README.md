@@ -9,6 +9,6 @@ The training script is stored in `runners` as `run_contworld.py`. To visualize c
 This library requires Python>=3.5 and the packages listed in requirements.txt.
 
 ## Dependencies
-1. rllab is a framework for developing and evaluating reinforcement learning algorithms, developed by Yan Duan, Xi Chen, Rein Houthooft, John Schulman and Pieter Abbeel at Berkeley and OpenAI (cloned from https://github.com/rll/rllab).
+1. [rllab](https://github.com/rll/rllab) is a framework for developing and evaluating reinforcement learning algorithms, developed by Yan Duan, Xi Chen, Rein Houthooft, John Schulman and Pieter Abbeel at Berkeley and OpenAI.
 
-2. rltools is a library that contains helper tools for working with reinforcement learning algorithms, developed by the Stanford Intelligent Systems Laboratory (cloned from https://github.com/sisl/rltools).
+2. [rltools](https://github.com/sisl/rltools) is a library that contains helper tools for working with reinforcement learning algorithms, developed by the Stanford Intelligent Systems Laboratory.
