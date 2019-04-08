@@ -3,7 +3,7 @@
 This is an implementation  of a multi-rover control problem in a continuous domain using deep reinforcement learning.
 
 ## Training
-The training script is stored in 'runners' as 'run_contworld.py'. To visualize certain results, use the script 'vis_contworld.py' in 'visualization'.
+The training script is stored in `runners` as `run_contworld.py`. To visualize certain results, use the script `vis_contworld.py` in `visualization`.
 
 ## Requirements
 This library requires Python>=3.5 and the packages listed in requirements.txt.
