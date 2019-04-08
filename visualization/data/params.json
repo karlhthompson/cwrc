@@ -1,0 +1,72 @@
+{
+  "algo": "tftrpo",
+  "args_data": null,
+  "baseline_type": "linear",
+  "batch_size": 24000,
+  "buffer_size": 1,
+  "control": "decentralized",
+  "conv": "",
+  "conv_channels": [
+    4,
+    8
+  ],
+  "conv_filters": [
+    3,
+    3
+  ],
+  "conv_strides": [
+    1,
+    1
+  ],
+  "crater_reward": -0.5,
+  "curriculum": null,
+  "discount": 0.95,
+  "encounter_reward": 0.001,
+  "epoch_length": 1000,
+  "eval_samples": 50000,
+  "exp_name": "experiment_2019_02_09_16_05_35_159362_Central Standard Time_ef7d3",
+  "exp_noise": 0.3,
+  "exp_strategy": "ou",
+  "feature_hidden": [
+    128,
+    64,
+    32
+  ],
+  "feature_net": null,
+  "feature_output": 16,
+  "gae_lambda": 0.99,
+  "log_dir": null,
+  "log_tabular_only": false,
+  "max_path_length": 500,
+  "min_pool_size": 10000,
+  "min_std": 1e-06,
+  "n_areas_of_int": 10,
+  "n_coop": 2,
+  "n_crater": 10,
+  "n_iter": 5000,
+  "n_parallel": 1,
+  "n_rovers": 6,
+  "n_sensors": 30,
+  "noid": null,
+  "params_log_file": "params.json",
+  "policy_hidden": [
+    100,
+    50,
+    25
+  ],
+  "policy_lr": 0.0001,
+  "qfunc_lr": 0.001,
+  "radius": 0.015,
+  "recurrent": null,
+  "replay_pool_size": 500000,
+  "resume_from": null,
+  "reward_mech": "local",
+  "scout_reward": 1.0,
+  "seed": null,
+  "sensor_range": 0.2,
+  "snapshot_mode": "all",
+  "speed_features": 1,
+  "step_size": 0.01,
+  "tabular_log_file": "progress.csv",
+  "text_log_file": "debug.log"
+}

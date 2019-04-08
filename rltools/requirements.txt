@@ -1,0 +1,6 @@
+gym
+tableprint
+numpy
+matplotlib
+pytest
+zerorpc
