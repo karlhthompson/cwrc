@@ -5,7 +5,7 @@ This is an implementation  of a multi-rover control problem in a continuous doma
 ## Requirements
 This library requires Python 3 and the packages listed in requirements.txt.
 
-## Execution
+## Training
 The training script is stored in 'runners' as 'run_contworld.py'. To visualize certain results, use the script 'vis_contworld.py' in 'visualization'.
 
 ## Dependencies
