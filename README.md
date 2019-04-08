@@ -1,5 +1,5 @@
 # CWRC
-Continuous World Rover Control using RL
+Continuous World Rover Control
 
 This is an implementation  of a multi-rover control problem in a continuous domain using reinforcement learning.
 
