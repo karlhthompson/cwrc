@@ -44,7 +44,6 @@ ipython-genutils==0.2.0
 isort==4.3.4
 itsdangerous==1.1.0
 jedi==0.13.2
-Jinja2==2.10
 joblib==0.13.0
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
@@ -99,7 +98,6 @@ python-dateutil==2.7.5
 python-igraph==0.7.1.post6
 python-utils==2.3.0
 pytz==2018.9
-PyYAML==3.13
 requests==2.21.0
 Retro==0.0.0
 rsa==4.0
