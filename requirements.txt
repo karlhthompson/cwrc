@@ -4,7 +4,7 @@ gcn==1.0
 gym==0.10.9
 intel-numpy==1.15.1
 intel-openmp==2019.0
-ipython==7.2.0
+ipython==7.16.3
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 Lasagne==0.2.dev1
