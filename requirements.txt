@@ -13,7 +13,7 @@ mkl==2019.0
 moviepy==0.2.3.5
 munkres==1.0.12
 networkx==2.2
-numpy==1.21.0
+numpy==1.22.0
 opencv-python==4.2.0.32
 pandas==0.24.1
 Pillow==9.0.1
